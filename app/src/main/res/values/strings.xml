@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WebsiteShortcutHomeScreenTest</string>
+    <string name="create_shortcut">Create Shortcut!</string>
 </resources>
